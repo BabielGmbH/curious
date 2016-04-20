@@ -1,0 +1,10 @@
+{
+  "Java": {
+    "position": "Java Web  Developer",
+    "url": "http://www.babiel.com/home/karriere/jobs/java-web-developer-mw.html"
+  },
+  "Frontend": {
+    "position": "Frontend Developer",
+    "url": "http://www.babiel.com/home/karriere/jobs/Frontend%20Developer%20(m%20w).html"
+  }
+}
